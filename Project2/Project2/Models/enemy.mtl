@@ -1,0 +1,72 @@
+# Blender MTL File: 'enemy.blend'
+# Material Count: 7
+
+newmtl Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F-35_Lightning_II\Pilot_usa.png
+
+newmtl plane.002
+Ns 5.882353
+Ka 0.000000 0.000000 0.000000
+Kd 0.397538 0.000556 0.000000
+Ks 0.141176 0.141176 0.141176
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F-35_Lightning_II\F-35_Lightning_II_P01.png
+
+newmtl plane.005
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.003005 0.041455 0.397538
+Ks 0.211765 0.211765 0.211765
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F-35_Lightning_II\F-35_Lightning_II_P01.png
+
+newmtl plane.007
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.603816 0.578563 0.597444
+Ks 0.211765 0.211765 0.211765
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F-35_Lightning_II\F-35_Lightning_II_P01.png
+
+newmtl plane.008
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.066592 0.062817 0.066825
+Ks 0.211765 0.211765 0.211765
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F-35_Lightning_II\Glass_Cockpit.png
+
+newmtl plane.009
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.539583 0.000000 0.000000
+Ks 0.094118 0.094118 0.094118
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F-35_Lightning_II\F-35_Lightning_II_P01.png
+
+newmtl plane.010
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.211765 0.211765 0.211765
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F-35_Lightning_II\F-35_Lightning_II_P01.png

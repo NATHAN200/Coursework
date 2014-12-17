@@ -1,0 +1,11 @@
+# Blender MTL File: 'enemyLaser.blend'
+# Material Count: 1
+
+newmtl Material.003
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.661862 0.020369 0.013678
+Ks 0.082103 0.082103 0.082103
+Ni 1.000000
+d 1.000000
+illum 2
